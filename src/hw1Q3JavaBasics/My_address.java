@@ -13,7 +13,7 @@ public class My_address {
 	public static void main(String[] args) {
 		System.out
 				.println(MyName + "\n" + houseNumber + " " + houseLocation + " " + street + streetType + "\n" + inNYC);
-
+System.out.println("git bash test");
 	}
 
 }
