@@ -8,6 +8,9 @@ public class Computer {
 	public int price;
 	public char grade;
 	public boolean madeinUsa;
+	
+	
+	
 
 	public void configuration() {
 		System.out.println("Brand:" + Brand + "\nModel:" + Model + "\nOperating system:" + Operatingsystem + "\nPrice:"
