@@ -1,4 +1,4 @@
-package hw7Q3Abstraction;
+package hw7Q3Abstraction.copy;
 
 public interface College {
 	public default void dorm() {
@@ -8,4 +8,5 @@ public interface College {
 	public static void studyRoom() {
 
 	}
+
 }

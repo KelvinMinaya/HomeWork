@@ -8,4 +8,13 @@ public interface University {
 	public static void library() {
 
 	}
+	/* The extends Keyword is used for inheritance. 1 Key word only
+	 * An Interface can inherit more than one interface, but zero regular or abstract class
+	 * 
+	 * 
+	 * */
+	
+	
+	
+	
 }
