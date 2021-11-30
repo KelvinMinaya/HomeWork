@@ -1,6 +1,6 @@
-package hw8Q3Abstraction.copy.copy;
+package hw9Q2Abstraction.copy.copy.copy;
 
-public abstract class EngineeringSchool {
+public abstract class EngineeringSchool extends NYUniversity {
 	public abstract void mehcanicalLab();
 
 	public void computerLab() {

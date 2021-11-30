@@ -1,4 +1,4 @@
-package hw8Q3Abstraction.copy.copy;
+package hw9Q2Abstraction.copy.copy.copy;
 
 public interface VocationalSchool {
 	public void vocationalinfo();

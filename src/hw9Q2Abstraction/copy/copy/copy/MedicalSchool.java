@@ -1,13 +1,19 @@
-package hw8Q3Abstraction.copy.copy;
+package hw9Q2Abstraction.copy.copy.copy;
 
 public abstract class MedicalSchool extends NursingSchool implements LawSchool {
+	
+	public MedicalSchool() {
+		System.out.println("This is Default MedicalSchool");
+	}
 					//can extend one regular class or implement one interface
 	public abstract void anatomyLab();
 
 	public void biochemistryLab() {
 		System.out.println("Chemistry is learned in this lab");
 	}
-
+public static void medicalStat() {
+	
+}
 	/*
 	 * The extends Keyword is used for inheritance. 1 Key word only and Interface can
 	 * inherit more than one interface, but zero regular or abstract class

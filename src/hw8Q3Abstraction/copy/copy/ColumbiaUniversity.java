@@ -9,7 +9,7 @@ public class ColumbiaUniversity extends EngineeringSchool implements VocationalS
 	 */
 	
 	
-//public abstract void chemistry(); -- Abstract method can not be defined in a regular class
+	
 
 	public ColumbiaUniversity() {
 		System.out.println("This is from the constructor");
@@ -25,7 +25,6 @@ public class ColumbiaUniversity extends EngineeringSchool implements VocationalS
 		
 	}
 
-	@Override
 	public void vocationalinfo() {
 		// TODO Auto-generated method stub
 		
