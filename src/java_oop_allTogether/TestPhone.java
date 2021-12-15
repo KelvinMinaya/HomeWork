@@ -22,6 +22,15 @@ public class TestPhone {
 		phone1.call();
 		phone1.camera();
 		phone1.message();
+		//part 5
+		GetSet find = new GetSet();
+		find.setInfo("Kelvin");
+		find.setPrice(750);
+		find.setSex('M');
+		find.isMadeInUsa();
+
+		System.out.println("\n" + find.getInfo() + " bought this phone in 2000" + "\nThe price was:" + find.getPrice()
+				+ "\nUser's sex:" + find.getSex() + "\nThis phone was made in USA:" + find.isMadeInUsa());
 
 	}
 }
