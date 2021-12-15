@@ -11,6 +11,8 @@ public abstract class AppleWatch {
 	}
 	public abstract void appleWacthinfo();
 	
+	
+	
 	public AppleWatch() {
 		System.out.println("Abstract class constructor");
 	}

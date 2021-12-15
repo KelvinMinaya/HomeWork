@@ -12,5 +12,16 @@ public class TestPhone {
 		iphone.wakitakitea();
 		iphone.Satellite();
 
+		// part 4
+		Iphone1 phone1 = new Iphone1();
+		phone1.abstractClassinfo();
+		phone1.regularClassInfo();
+		phone1.appleWacthinfo();
+		phone1.battery();
+		phone1.appleWacthinfo();
+		phone1.call();
+		phone1.camera();
+		phone1.message();
+
 	}
 }
