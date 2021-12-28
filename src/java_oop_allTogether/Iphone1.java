@@ -2,6 +2,22 @@ package java_oop_allTogether;
 
 public class Iphone1 extends AppleWatch implements Phone {
 
+	
+	public Iphone1() {
+	System.out.println("Iphone 1 default constructor");
+	}
+	
+	public void hiddenInfo() {
+		
+	}
+	
+		
+	
+	
+	
+	
+	
+	
 	public void regularClassInfo() {
 		System.out.println("\n A class is where objects are created and methods implemented"
 				+ "\nImplement(interface) and extends(regular or abstract) keyword are used for inheritance");

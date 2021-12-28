@@ -22,7 +22,7 @@ public class TestPhone {
 		phone1.call();
 		phone1.camera();
 		phone1.message();
-		//part 5
+		// part 5
 		GetSet find = new GetSet();
 		find.setInfo("Kelvin");
 		find.setPrice(750);
@@ -31,6 +31,30 @@ public class TestPhone {
 
 		System.out.println("\n" + find.getInfo() + " bought this phone in 2000" + "\nThe price was:" + find.getPrice()
 				+ "\nUser's sex:" + find.getSex() + "\nThis phone was made in USA:" + find.isMadeInUsa());
+
+		// part 6
+
+		Iphone6 I6 = new Iphone6();
+		I6.wakitakitea();
+		I6.battery();
+		I6.appleWacthinfo();
+		I6.call();
+		I6.camera();
+		I6.message();
+		I6.abstractClassinfo();
+		I6.regularClassInfo();
+		I6.pagers();
+		I6.interfaceInfo();
+		I6.camera1();
+		I6.musicVideo();
+		I6.picture();
+		I6.screen();
+
+		// Iphone2 and 3 extending 1 is Hierarchical inheritance
+		// Iphone 4 into 2 and iphone 5 into 4 and Iphone 6 into 5 is multi level
+		// inheritance
+
+		// part7
 
 	}
 }
