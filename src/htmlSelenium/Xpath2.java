@@ -28,13 +28,14 @@ public class Xpath2 {
  * //div[@id='contentOverlay']//following-sibling::div[@class='footer-wrapper']
  * //div[@class='d-md-inline pr-3 h-50 mt-2']//following-sibling::div[@class='d-md-inline']
  * 
- * Tag preceding sibling and Index number
+ * Tag preceding sibling and Index number when needed
  * source=Walmart.com
  * //div[@class='absolute bg-white br3 br--bottom left-0 lh-copy mt4 overflow-hidden shadow-1 dn']//preceding-sibling::a[@class='flex items-center no-underline ph3 white desktop-header-trigger lh-title b'][1]
  * //div[@class='absolute bg-white br3 br--bottom left-0 lh-copy mt4 overflow-hidden shadow-1 dn']//preceding-sibling::a[@class='flex items-center no-underline ph3 white desktop-header-trigger lh-title b'][2]
- * 
- * 
- * 
+ * //div[@class='relative']//preceding-sibling::a[@class='flex-none mr3']--homepage walmart logo
+ * //div[@class='hide-content-max-m FeaturedTopNav-flyout adjusted']//preceding-sibling::h2[@class='FeaturedTopNav-nav-heading no-margin font-normal'][2]
+ * //div[@id='cp-top-module-1']//preceding-sibling::div[@id='cp-top-module-0']--digital vaccine record
+ * //div[@id='cp-top-module-1']//preceding-sibling::div[@id='cp-top-module-0']//parent::div[@class='CategoryApp-topModules CategoryApp-topModules--no-top-padding']
  * 
  * 
  * 
