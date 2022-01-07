@@ -1,4 +1,4 @@
-package htmlSelenium;
+/*package htmlSelenium;
 
 package practice;
 
@@ -63,4 +63,4 @@ public class SeleniumTest2 {
 		driver.quit();
 	}
 
-}
+}*/

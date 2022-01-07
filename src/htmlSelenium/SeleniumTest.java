@@ -1,4 +1,4 @@
-package htmlSelenium;
+/*package htmlSelenium;
 
 public class SeleniumTest {
 
@@ -49,4 +49,4 @@ public class SeleniumTest {
 	
 	
 	
-}
+}*/

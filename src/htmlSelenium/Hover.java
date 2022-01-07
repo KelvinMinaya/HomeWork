@@ -1,4 +1,4 @@
-package htmlSelenium;
+/*package htmlSelenium;
 
 package practice;
 
@@ -67,4 +67,4 @@ public class MouseHover {
 		driver.close();
 	}
 
-}
+}*/

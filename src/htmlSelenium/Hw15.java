@@ -1,4 +1,4 @@
-package htmlSelenium;
+/*package htmlSelenium;
 
 package practice;
 
@@ -89,4 +89,4 @@ public class Hw15 {
 		driver.quit();
 	}
 
-}
+}*/

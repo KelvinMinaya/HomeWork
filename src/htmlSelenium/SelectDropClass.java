@@ -1,4 +1,4 @@
-package htmlSelenium;
+/*package htmlSelenium;
 
 package practice;
 
@@ -66,4 +66,4 @@ public class SelectDropDown {
 	}
 }
 
-}
+}*/
