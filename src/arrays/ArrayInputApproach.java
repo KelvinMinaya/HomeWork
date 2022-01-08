@@ -16,7 +16,7 @@ public class ArrayInputApproach {
 		Scanner sc = new Scanner(System.in);
 
 		for (int i = 0; i < 10; i++) {
-			System.out.println("please insert your int");
+			System.out.println("please insert your int");//comment out for loops
 			a[i] = sc.nextInt();
 		}
 
@@ -25,7 +25,7 @@ public class ArrayInputApproach {
 		}
 		
 		Random r= new Random();
-		a[0]=r.nextInt(10);
+		a[0]=r.nextInt(100);
 		System.out.println(a[0]);
 		
 		
