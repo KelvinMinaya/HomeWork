@@ -1,4 +1,4 @@
-package arrays;
+package collectionFrameWork;
 
 public class Array_Declared {
 

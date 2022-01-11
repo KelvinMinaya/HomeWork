@@ -1,4 +1,4 @@
-package arrays;
+package collectionFrameWork;
 
 import java.util.Random;
 import java.util.Scanner;
